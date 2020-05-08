@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1220mm"
+   height="619mm"
+   viewBox="-1 -425 1220 619"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="vga.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.9856046"
+     inkscape:cx="311.68601"
+     inkscape:cy="132.35143"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:document-units="mm" />
+  <title
+     id="title2">OpenSCAD Model</title>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:60.41347122px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51033676"
+     x="-6.1449661"
+     y="122.34117"
+     id="text821"
+     transform="scale(0.99594085,1.0040757)"><tspan
+       sodipodi:role="line"
+       id="tspan819"
+       x="-6.1449661"
+       y="122.34117"
+       style="stroke-width:1.51033676">3 mm</tspan></text>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.09791667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path820"
+     cx="19"
+     cy="176.5"
+     r="11.75" />
+  <g
+     id="g6540"
+     transform="translate(-81.99614,54.766781)">
+    <circle
+       r="1.5"
+       cy="112.233"
+       cx="112.99614"
+       id="path822"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.11922751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.11922751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle824"
+       cx="88.99614"
+       cy="131.23344"
+       r="1.5" />
+  </g>
+  <rect
+     style="fill:#000000;fill-opacity:0.05357145;stroke:none;stroke-width:0.10317538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.61905226, 0.61905226;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1449"
+     width="33"
+     height="26"
+     x="2.5000002"
+     y="163.5" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1136089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6542"
+     width="40"
+     height="35"
+     x="-0.99999982"
+     y="159"
+     ry="1.7978082" />
+</svg>
